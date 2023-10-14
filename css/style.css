@@ -1,0 +1,24 @@
+html{
+    height: 100%;
+}
+
+body{
+    scrollbar-gutter: auto;
+    background: radial-gradient(at center, #0a1f29, #000000);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+#main-header {
+    margin-top: 50px; /* Ajusta este valor según sea necesario */
+}
+footer{
+    margin-top: auto;
+}
+
+.bg-nav{
+    background-color: #2C3E50;
+}
+
